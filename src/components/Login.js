@@ -61,8 +61,8 @@ function Login() {
               </div>
               <div className="col-lg-6 d-flex align-items-center gradient-custom-2">
                 <div className="text-white px-3 py-4 p-md-5 mx-md-4">
-                  <h1 className="mb-4">Happening Now!</h1>
-                  <h2 className="small mb-0">Join Tweeter Today!</h2>
+                  <h1 className="mb-4">This is a Router Test</h1>
+                  <h2 className="small mb-0">Thanks for viewing</h2>
                 </div>
               </div>
             </div>
